@@ -4,7 +4,7 @@
 
 ## 🌱 I’m currently Making React Apps
 
-💞️ I’m open for <b>Opportunities</b> to make great apps
+🟢 I’m open for <b>Opportunities</b> to make great apps
 
 📫 Reach Me on: [LinkedIn](https://www.linkedin.com/in/jacob-dmn/) OR [Twitter](http://twitter.com/JacobDmn)
 
