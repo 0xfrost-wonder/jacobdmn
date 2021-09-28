@@ -1,6 +1,6 @@
 👋 Hi, I’m Jacob
 
-#👀 **I’m a Frontend Developer**
+👀 ** #I’m a Frontend Developer**
 
 🌱 I’m currently Making React Apps
 
