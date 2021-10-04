@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jacob
 
-## 🟢 Frontend Developer
+## 🟢 Frontend Developer | Specialized in React
 ## 🟢 Open For New Oportunities
 -------------------------------
 ## 🟢 REACH ME:
