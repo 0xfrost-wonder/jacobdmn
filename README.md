@@ -1,10 +1,7 @@
-## 👋 Hi, I’m Jacob
+# 👋 Hi, I’m Jacob
 
-# 👀 I’m a Frontend Developer
-
-## 🌱 I’m currently Making React Apps
-
-🟢 I’m open for <b>Opportunities</b> to make great apps
+## - Frontend Developer | React Lover | Problem Solver | Enthusiast of AI & Neuroscience
+## - 🟢 I’m open for New <b>Opportunities</b>
 
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' />](https://www.linkedin.com/in/jacob-dmn/) [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' />](http://twitter.com/JacobDmn)
 -------------------------------
