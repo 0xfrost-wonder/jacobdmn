@@ -7,3 +7,9 @@
 
 ## 🟢 REACH ME HERE:
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' />](https://www.linkedin.com/in/jacob-dmn/) [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' />](http://twitter.com/JacobDmn)
+
+
+[![](https://raw.githubusercontent.com/jacobdmn/MyStats/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jacobdmn/MyStats/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jacobdmn/MyStats/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jacobdmn/MyStats/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jacobdmn/MyStats/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
