@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a Frontend Developer
+# 👋 Hi, I’m a Full-Stack | Blockchain Developer
 
 -------------------------------
 ## 🟢 TECH STACK:
