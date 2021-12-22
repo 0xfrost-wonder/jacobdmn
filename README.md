@@ -16,7 +16,12 @@
 
 --------
 #### Database:
-<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width='70'  title='Firebase'  />     <img src="https://uploads.getpop.org/wp-content/uploads/2019/07/graphql.png" width='60' title='GraphQL'   />     <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" width='60' title='GraphQL'   /> 
+<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width='70'  title='Firebase'  />     <img src="https://uploads.getpop.org/wp-content/uploads/2019/07/graphql.png" width='60' title='GraphQL'   />     <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" width='60' title='GraphQL'   />     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" width='60' title='MongoDB'   /> 
+
+--------
+#### Backend:
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width='70'  title='Node.js'  />     <img src="" width='60' title='PHP'   />     <img src="https://pics.freeicons.io/uploads/icons/png/8416740941580802960-512.png" width='60' title='Express.JS'   /> 
+
 
 --------
 #### DevOps :
