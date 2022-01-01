@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a Full-Stack | Blockchain Developer
+# 👋 Hi, I’m a Blockchain Developer
 
 -------------------------------
 ## 🟢 TECH STACK:
