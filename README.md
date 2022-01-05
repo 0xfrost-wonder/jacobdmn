@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a Blockchain Developer
+# 🚀 Hi, I’m a Blockchain Developer
 I built my own blockchain from scratch, built my own cryptocurrency, (and stole many ideas from Ethereum) to make sure I understand the first principles behind the thing. - Fluent in English, native in Solidity.
 
 -------------------------------
