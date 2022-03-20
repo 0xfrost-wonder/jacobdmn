@@ -1,5 +1,16 @@
 # 🚀 Hi, I’m a Blockchain Developer
-I built my own blockchain from scratch, built my own cryptocurrency, (and stole many ideas from Ethereum) to make sure I understand the first principles behind the thing. - Fluent in English, Native in Solidity.
+
++8 years in Computer Science, +4 years in Web Development.
+
+Hi, I'm Jacob, I built my own blockchain from scratch, and built my own cryptocurrency, just to make sure I understand the first principles behind the thing.
+
+* Ethereum Experience:
+ - writing various smart contracts like ERC 20, ERC 721 and ERC 1155.
+ - Testing & Deploying to Layer 1, and Layer 2 like Polygon and Optimism.
+
+* Currently working & learning more about DAOs like the Metaverse
+
+* Open for amazing opportunities
 
 -------------------------------
 ### Blockchain Stack (Solidity, Ethers.js, Web3.js, Truffle, Hardhat..):
