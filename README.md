@@ -1,4 +1,4 @@
-# 🚀 Hi, I’m a Blockchain Developer
+# 🚀 Hi, I’m a Solidity Developer
 
 +8 years in Computer Science, +4 years in Web Development.
 
