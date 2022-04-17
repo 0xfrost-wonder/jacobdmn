@@ -16,7 +16,8 @@ Expertise:
 ---
 
 ## 🟢 REACH ME HERE:
-[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' />](https://www.linkedin.com/in/jacobdmn/) [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' />](http://twitter.com/jacobdmn)
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' />](https://www.linkedin.com/in/jacobdmn/) [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' />](http://twitter.com/jacobdmn) [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' />](https://www.instagram.com/jacob.dmn/)
+
 
 -------------------------------
 <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width='61' title='Hardhat' />      <img src="https://cdn2.iconfinder.com/data/icons/leto-cryptocurrency/64/__blockchain_link_block-2-512.png" width='61' title='Blockchain' />      <img src="https://cdn1.iconfinder.com/data/icons/social-icons-33/512/bitcoin-512.png" width='60' title='Bitcoin'  />      <img src="https://cdn2.iconfinder.com/data/icons/cryptocurrency-5/100/cryptocurrency_blockchain_crypto-02-512.png" width='60' title='Ethereum'   />      <img src="https://res.cloudinary.com/divzjiip8/image/upload/q_auto/v1609632845/logos/intro_solidity.png" width='60' title='Solidity'   />      <img src="https://www.hyperledger.org/wp-content/uploads/2020/02/HL_ImageLibrary_Icons_Green_hyperledger.png" width='60' title='Hyperledger'   />      <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png?w=400" width='60' title='Web3.js'   />
