@@ -7,11 +7,11 @@ Expertise:
 ### * UI/UX: strong design experience
 ### * Web2: strong experience with React.js / Next.js
 ### * Web3: (Specialized in Ethereum)
-  - built my own blockchain from scratch, built my own cryptocurrency, just to make sure I understand the first principles behind the thing.
-  - writing various smart contracts like ERC 20, ERC 721, and ERC 1155 (from OpenZepplin).
-  - Testing & Deploying to Layer 1, and Layer 2 like Polygon and Optimism. (Hardhat, Ethers.js)
-  - Experience with Moralis (Wallet Authentication, saving user Infos...)
-  - Currently, working & learning more about DAOs
+  - built my own `blockchain` from scratch, built my own `cryptocurrency`, just to make sure I understand the `first principles` behind the thing.
+  - writing various `smart contracts` like `ERC 20`, `ERC 721`, and `ERC 1155` (from `OpenZepplin`).
+  - Testing & Deploying to Layer 1, and Layer 2 like Polygon and `Optimism`. (`Hardhat`, `Ethers.js`)
+  - Experience with `Moralis` (Wallet Authentication, saving user Infos...)
+  - Currently, working & learning more about `DAOs`
 
 ---
 
