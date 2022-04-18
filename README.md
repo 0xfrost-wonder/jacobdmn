@@ -1,11 +1,11 @@
-# 🚀 Web3 Full Stack Developer | React | Nextjs | Solidity | Hardhat | Ethers.js | Moralis
+# 🚀 Web3 Full Stack Developer | `React` | `Nextjs` | `Solidity` | `Hardhat` | `Ethers.js` | `Moralis`
 
 +8 years in Computer Science, +4 years in Web Development.
 
 Expertise:
 
 ### * UI/UX: strong design experience
-### * Web2: strong experience with React.js / Next.js
+### * Web2: strong experience with `React.js` / `Next.js`
 ### * Web3: (Specialized in Ethereum)
   - built my own `blockchain` from scratch, built my own `cryptocurrency`, just to make sure I understand the `first principles` behind the thing.
   - writing various `smart contracts` like `ERC 20`, `ERC 721`, and `ERC 1155` (from `OpenZepplin`).
