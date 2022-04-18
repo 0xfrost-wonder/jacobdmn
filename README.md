@@ -2,7 +2,7 @@
 
 ## 🟢 Top skills: `React` | `Nextjs` | `Solidity` | `Hardhat` | `Ethers.js` | `Moralis`
 
-## 🟢 Years of experience: +8 years in Computer Science, +4 years in Web Development.
+### 🟢 Years of experience: `+8 years in Computer Science`, `+4 years in Web Development`.
 
 ## 🟢 Detailed expertise:
 
