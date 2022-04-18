@@ -1,4 +1,6 @@
-# 🚀 Web3 Full Stack Developer | `React` | `Nextjs` | `Solidity` | `Hardhat` | `Ethers.js` | `Moralis`
+# 🚀 Web3 Full Stack Developer | Ethereum
+
+## `React` | `Nextjs` | `Solidity` | `Hardhat` | `Ethers.js` | `Moralis`
 
 +8 years in Computer Science, +4 years in Web Development.
 
