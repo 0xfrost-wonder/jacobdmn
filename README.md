@@ -1,10 +1,10 @@
 # 🚀 Web3 Full Stack Developer | Ethereum
 
-## `React` | `Nextjs` | `Solidity` | `Hardhat` | `Ethers.js` | `Moralis`
+## 🟢 Top skills: `React` | `Nextjs` | `Solidity` | `Hardhat` | `Ethers.js` | `Moralis`
 
-+8 years in Computer Science, +4 years in Web Development.
+## 🟢 Years of experience: +8 years in Computer Science, +4 years in Web Development.
 
-Expertise:
+## 🟢 Detailed expertise:
 
 ### * UI/UX: strong design experience
 ### * Web2: strong experience with `React.js` / `Next.js`
