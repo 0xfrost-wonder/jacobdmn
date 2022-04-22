@@ -1,3 +1,5 @@
+# 🚀 Co-Founder @Web3Pros
+# 🚀 Web Consultant
 # 🚀 Web3 Full Stack Developer | Ethereum
 
 ## 🟢 Top skills: `React` | `Nextjs` | `Solidity` | `Hardhat` | `Ethers.js` | `Moralis`
