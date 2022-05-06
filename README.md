@@ -1,21 +1,22 @@
-# 🚀 Co-Founder @Web3Pros
-# 🚀 Web Consultant
-# 🚀 Web3 Full Stack Developer | Ethereum
+## Hi, I'm Jacob, Co-Founder & CEO at [Web3 Pros](https://web3pros.dev)
 
-## 🟢 Top skills: `React` | `Nextjs` | `Solidity` | `Hardhat` | `Ethers.js` | `Moralis`
+### ✨ [Web3 Pros](https://web3pros.dev) Vision:
+#### We are a global team of nomads that have lived through web1, and web2, and are pushing the boundaries of web3.
+### 🎯 [Web3 Pros](https://web3pros.dev) current FOCUS: Making useful NFTs Projects in The metaverse.
+### 💬 [Web3 Pros](https://web3pros.dev) Future Departments:
+    • 😎 AR / VR Projects Department
+    • 🚀 Web3 Marketing Agency Department
+    • 👩🏻‍🎓Web3 Academy Department
+    • 🤖 IoT Department
 
-### 🟢 Years of experience: `+8 years in Computer Science`, `+4 years in Web Development`.
-
-## 🟢 Detailed expertise:
-
-### * UI/UX: strong design experience
-### * Web2: strong experience with `React.js` / `Next.js`
-### * Web3: (Specialized in Ethereum)
-  - built my own `blockchain` from scratch, built my own `cryptocurrency`, just to make sure I understand the `first principles` behind the thing.
-  - writing various `smart contracts` like `ERC 20`, `ERC 721`, and `ERC 1155` (from `OpenZepplin`).
-  - Testing & Deploying to Layer 1, and Layer 2 like Polygon and `Optimism`. (`Hardhat`, `Ethers.js`)
-  - Experience with `Moralis` (Wallet Authentication, saving user Infos...)
-  - Currently, working & learning more about `DAOs`
+---		 
+ 
+### 👽 Details about me, and My philosophy: 
+  • 🧠 Scaling the scope of consciousness… my eternal goal.
+  
+  • 💭 I spent years seeking the meaning of life, Eventually came to this phrase: "The universe itself is the answer, We have to work on scaling the scope of consciousness so we can ask the right questions".
+  
+  • 🍀 Contributing to making society better requires that everyone focuses on one thing, and does it perfectly, in my case, that was the web, I've been here since web1, then web2, with +9 years in computer science, and with all the energy and passion, I've served many useful projects, and worked with significant companies throughout the way, after this long time, decided to launch [Web3 Pros](https://web3pros.dev) to push the boundaries of Web3
 
 ---
 
