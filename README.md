@@ -5,10 +5,10 @@
 ### 🎯 [Web3 Pros](https://web3pros.dev) FOCUS:
     Making useful NFTs Projects in The metaverse.
 ### 💬 [Web3 Pros](https://web3pros.dev) Future Departments:
-    • 😎 AR / VR Projects Department
-    • 🚀 Web3 Marketing Agency Department
-    • 👩🏻‍🎓Web3 Academy Department
-    • 🤖 IoT Department
+    • 🕶 Web3 AR / VR Projects Department
+    • 💹 Web3 Marketing Agency Department
+    • 👩🏻‍🎓 Web3 Academy Department
+    • 🤖 Web3 IoT Department
 
 ---		 
  
