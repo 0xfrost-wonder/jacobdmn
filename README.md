@@ -12,7 +12,7 @@
 
 ---		 
  
-### 👽 Details about me, and My philosophy: 
+### 👽 My philosophy: 
   • 🧠 Scaling the scope of consciousness… my eternal goal.
   
   • 💭 I spent years seeking the meaning of life, Eventually came to this phrase: "The universe itself is the answer, We have to work on scaling the scope of consciousness so we can ask the right questions".
