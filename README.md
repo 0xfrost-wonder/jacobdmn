@@ -1,7 +1,8 @@
 ## 😀 Hi, I'm Jacob, Co-Founder & CEO at [Web3 Pros](https://web3pros.dev)
 
 ### ✨ [Web3 Pros](https://web3pros.dev) Vision:
-    We are a global team of nomads that have lived through web1, and web2, and are pushing the boundaries of web3.
+    We are a global team of nomads that have lived through web1, and web2...
+    and are pushing the boundaries of web3.
 ### 🎯 [Web3 Pros](https://web3pros.dev) FOCUS:
     Making useful NFT Projects in The metaverse.
 ### 💬 [Web3 Pros](https://web3pros.dev) Future Departments:
