@@ -3,7 +3,7 @@
 ### ✨ [Web3 Pros](https://web3pros.dev) Vision:
     We are a global team of nomads that have lived through web1, and web2...
     and are pushing the boundaries of web3.
-### 🎯 [Web3 Pros](https://web3pros.dev) FOCUS:
+### 🎯 [Web3 Pros](https://web3pros.dev) Focus:
     Making useful NFT Projects in The metaverse.
 ### 💬 [Web3 Pros](https://web3pros.dev) Future Departments:
     • 🕶 Web3 AR / VR Projects Department
