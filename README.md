@@ -6,8 +6,8 @@
 #### * Web2: strong experience with React.js / Next.js
 #### * Web3: (Specialized in Ethereum)
    - built my own blockchain from scratch, built my own cryptocurrency, just to make sure I understand the first principles behind the thing.
-   - wrote various smart contracts like ERC 20, ERC 721, and ERC 1155 (from OpenZepplin).
-   - Tested & Deploying to Layer 1, and Layer 2 like Polygon and Optimism. (Hardhat, Ethers.js)
+   - wrote various smart contracts like ERC 20, ERC 721, and ERC 1155 from OpenZepplin.
+   - Tested & Deployed to Layer 1, and Layer 2 like Polygon and Optimism using Hardhat, Ethers.js
    - Experience with Moralis (Wallet Authentication, saving user Infos...)
    - Currently, working & learning more about DAOs
 
@@ -17,7 +17,7 @@
 
 --------
 ### Web Development MERN (MongoDB, Express, React, Node):
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'   />      <img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width='60'  title='TypeScript'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width='60'  title='React.JS'   />      <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" width='60' title='Next.JS'   />      <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" width='60'  title='Redux'  />      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width='70'  title='Node.js'  />      <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width='70'  title='Python'  />      <img src="https://uploads.getpop.org/wp-content/uploads/2019/07/graphql.png" width='60' title='GraphQL'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" width='60' title='MongoDB'   />      <img src="https://hight.io/_nuxt/img/tailwind.3558838.png" width='60'  title='Tailwind Css'  />      <img src="https://img.icons8.com/color/50/000000/material-ui.png" width='60'  title='Material UI'  />   
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'   />      <img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width='60'  title='TypeScript'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width='60'  title='React.JS'   />      <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" width='60' title='Next.JS'   />      <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" width='60'  title='Redux'  />      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width='70'  title='Node.js'  />      <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width='70'  title='Python'  />      <img src="https://uploads.getpop.org/wp-content/uploads/2019/07/graphql.png" width='60' title='GraphQL'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" width='60' title='MongoDB'   />      <img src="https://img.icons8.com/color/512/tailwindcss.png" width='60'  title='Tailwind Css'  />      <img src="https://img.icons8.com/color/50/000000/material-ui.png" width='60'  title='Material UI'  />   
 
 -------------------------------
 ### My philosophy: 
