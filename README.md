@@ -1,15 +1,6 @@
-# 🚀 Hi, I’m a Blockchain Developer [@Web3 Pros](http://web3pros.dev) 🦊
+# 😄 Hi, I’m Jacob, a Blockchain Developer [@Web3 Pros](http://web3pros.dev) 🦊
 
-## Expertise:
-
-#### * UI/UX: strong design experience
-#### * Web2: strong experience with React.js / Next.js
-#### * Web3: (Specialized in Ethereum)
-   - built my own blockchain from scratch, built my own cryptocurrency, just to make sure I understand the first principles behind the thing.
-   - wrote various smart contracts like ERC 20, ERC 721, and ERC 1155 from OpenZepplin.
-   - Tested & Deployed to Layer 1, and Layer 2 like Polygon and Optimism using Hardhat, Ethers.js
-   - Experience with Moralis (Wallet Authentication, saving user Infos...)
-   - Currently, working & learning more about DAOs
+I specialize in building decentralized applications (dApps) using cutting-edge technologies such as Ethereum, Solidity, and IPFS. With over 4 years of experience in the web development industry, and +1 year in Blockchain, I am passionate about creating decentralized solutions that empower users and foster innovation.
 
 -------------------------------
 ### Blockchain Stack (Solidity, Ethers.js, Web3.js, Truffle, Hardhat..):
@@ -20,12 +11,15 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'   />      <img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width='60'  title='TypeScript'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width='60'  title='React.JS'   />      <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" width='60' title='Next.JS'   />      <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" width='60'  title='Redux'  />      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width='70'  title='Node.js'  />      <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width='70'  title='Python'  />      <img src="https://uploads.getpop.org/wp-content/uploads/2019/07/graphql.png" width='60' title='GraphQL'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" width='60' title='MongoDB'   />      <img src="https://img.icons8.com/color/512/tailwindcss.png" width='60'  title='Tailwind Css'  />      <img src="https://img.icons8.com/color/50/000000/material-ui.png" width='60'  title='Material UI'  />   
 
 -------------------------------
-### My philosophy: 
-  • 🧠 Scaling the scope of consciousness… my eternal goal.
-  
-  • 💭 I spent years seeking the meaning of life, Eventually came to this phrase: "The universe itself is the answer, We have to work on scaling the scope of consciousness so we can ask the right questions".
-  
-  • 🍀 Contributing to making society better requires that everyone focuses on one thing, and does it perfectly, in my case, that was the web, I've been here since web1, then web2, with +9 years in computer science, and with all the energy and passion, I've served many useful projects, and worked with significant companies throughout the way, after this long time, Currently looking forward to pushing the boundaries of Web3
+
+### 01. About Me
+When it comes to my work, I am a detail-oriented problem-solver who is always looking for new and innovative ways to approach complex challenges. I am passionate about creating decentralized solutions that are secure, transparent, and scalable, and that empower users to take control of their digital lives.
+
+### 02. About my contribution
+In my previous role, I contributed to the development of a Web3 platform that leveraged the power of blockchain technology to create a more transparent and equitable supply chain for a variety of industries. I have also worked on several open-source projects focused on improving the usability and accessibility of Web3 technologies.
+
+### 03. Interests and Hobbies
+My love for first principles thinking is matched only by my passion for nature and astronomy. I find solace in going for long walks alone in the morning, taking in the beauty of the natural world and contemplating the mysteries of the cosmos.
 
 ---
 
