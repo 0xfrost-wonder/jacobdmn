@@ -1,4 +1,4 @@
-# 😄 Hi, I’m Jacob, a Blockchain Developer [@Web3 Pros](http://web3pros.dev) 🦊
+# 😄 Hi, I’m [Jacob](https://JacobDmn.me), a Blockchain Developer [@Web3 Pros](http://web3pros.dev) 🦊
 
 I specialize in building decentralized applications (dApps) using cutting-edge technologies such as Ethereum, Solidity, and IPFS. With over 4 years of experience in the web development industry, and +1 year in Blockchain, I am passionate about creating decentralized solutions that empower users and foster innovation.
 
@@ -24,7 +24,9 @@ My love for first principles thinking is matched only by my passion for nature a
 ---
 
 ## 🟢 REACH ME HERE:
-[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' />](https://www.linkedin.com/in/jacobdmn/) [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' />](http://twitter.com/jacobdmn) [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' />](https://www.instagram.com/jacob.dmn/)
+[<img src='https://cdn3.iconfinder.com/data/icons/social-media-circle-6/1024/circle-10-512.png' width='60' />](https://tJacobDmn.me/) [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' />](https://www.linkedin.com/in/jacobdmn/) [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' />](http://twitter.com/jacobdmn) [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' />](https://www.instagram.com/jacob.dmn/)
+
+
 
 
 
