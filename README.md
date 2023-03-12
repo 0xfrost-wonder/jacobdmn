@@ -12,13 +12,13 @@ I specialize in building decentralized applications (dApps) using cutting-edge t
 
 -------------------------------
 
-### 01. About Me
+# 01. About Me
 When it comes to my work, I am a detail-oriented problem-solver who is always looking for new and innovative ways to approach complex challenges. I am passionate about creating decentralized solutions that are secure, transparent, and scalable, and that empower users to take control of their digital lives.
 
-### 02. About my contribution
+# 02. About my contribution
 In my previous role, I contributed to the development of a Web3 platform that leveraged the power of blockchain technology to create a more transparent and equitable supply chain for a variety of industries. I have also worked on several open-source projects focused on improving the usability and accessibility of Web3 technologies.
 
-### 03. Interests and Hobbies
+# 03. Interests and Hobbies
 My love for first principles thinking is matched only by my passion for nature and astronomy. I find solace in going for long walks alone in the morning, taking in the beauty of the natural world and contemplating the mysteries of the cosmos.
 
 ---
