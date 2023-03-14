@@ -2,6 +2,8 @@
 
 I specialize in building decentralized applications (dApps) using cutting-edge technologies such as Ethereum, Solidity, and IPFS. With over 4 years of experience in the web development industry, and +1 year in Blockchain, I am passionate about creating decentralized solutions that empower users and foster innovation.
 
+[Website](https://JacobDmn.me), [Resume](https://JacobDmn.me/resume)
+
 -------------------------------
 ### Blockchain Stack (Solidity, Ethers.js, Web3.js, Truffle, Hardhat..):
 <img src="https://cdn2.iconfinder.com/data/icons/leto-cryptocurrency/64/__blockchain_link_block-2-512.png" width='61' title='Blockchain' />      <img src="https://cdn1.iconfinder.com/data/icons/social-icons-33/512/bitcoin-512.png" width='60' title='Bitcoin'  />      <img src="https://cdn2.iconfinder.com/data/icons/cryptocurrency-5/100/cryptocurrency_blockchain_crypto-02-512.png" width='60' title='Ethereum'   />      <img src="https://res.cloudinary.com/divzjiip8/image/upload/q_auto/v1609632845/logos/intro_solidity.png" width='60' title='Solidity'   />      <img src="https://www.hyperledger.org/wp-content/uploads/2020/02/HL_ImageLibrary_Icons_Green_hyperledger.png" width='60' title='Hyperledger'   />      <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png?w=400" width='60' title='Web3.js'   />
