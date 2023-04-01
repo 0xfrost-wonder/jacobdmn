@@ -16,7 +16,7 @@ I specialize in building decentralized applications (dApps) using cutting-edge t
 ### - Web2 Backend
 <img src="https://jacobdmn.me/icons/firebase.svg" width='60' title='Firebase' />      <img src="https://jacobdmn.me/icons/graphql.svg" width='60' title='GraphQL' />      <img src="https://jacobdmn.me/icons/nodejs.svg" width='60' title='Node.Js' />      <img src="https://jacobdmn.me/icons/mongodb.svg" width='60' title='MongoDB' />      <img src="https://jacobdmn.me/icons/git.svg" width='60' title='Git' />      <img src="https://jacobdmn.me/icons/mysql.svg" width='60' title='Mysql' />      <img src="https://jacobdmn.me/icons/php.svg" width='60' title='PHP' />      <img src="https://jacobdmn.me/icons/graphcms.svg" width='60' title='Graph CMS' />
 
-### - Other languages
+### - Other languages and tools
 <img src="https://jacobdmn.me/icons/assembly.png" width='60' title='Assembly' />      <img src="https://jacobdmn.me/icons/c.svg" width='60' title='C' />      <img src="https://jacobdmn.me/icons/cpp.svg" width='60' title='C++' />      <img src="https://jacobdmn.me/icons/java.svg" width='60' title='Java' />      <img src="https://jacobdmn.me/icons/python.svg" width='60' title='Python' />      <img src="https://jacobdmn.me/icons/linux.svg" width='60' title='Linux' />
 
 ### - Web Design
