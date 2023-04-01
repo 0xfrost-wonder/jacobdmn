@@ -5,12 +5,22 @@ I specialize in building decentralized applications (dApps) using cutting-edge t
 [Website](https://JacobDmn.me), [Resume](https://JacobDmn.me/resume)
 
 -------------------------------
-### Blockchain Stack (Solidity, Ethers.js, Web3.js, Truffle, Hardhat..):
-<img src="https://cdn2.iconfinder.com/data/icons/leto-cryptocurrency/64/__blockchain_link_block-2-512.png" width='61' title='Blockchain' />      <img src="https://cdn1.iconfinder.com/data/icons/social-icons-33/512/bitcoin-512.png" width='60' title='Bitcoin'  />      <img src="https://cdn2.iconfinder.com/data/icons/cryptocurrency-5/100/cryptocurrency_blockchain_crypto-02-512.png" width='60' title='Ethereum'   />      <img src="https://res.cloudinary.com/divzjiip8/image/upload/q_auto/v1609632845/logos/intro_solidity.png" width='60' title='Solidity'   />      <img src="https://www.hyperledger.org/wp-content/uploads/2020/02/HL_ImageLibrary_Icons_Green_hyperledger.png" width='60' title='Hyperledger'   />      <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png?w=400" width='60' title='Web3.js'   />
+### - Web3 Development
+<img src="https://jacobdmn.me/icons/solidity.svg" width='61' title='Solidity' />      <img src="https://jacobdmn.me/icons/ethers.svg" width='61' title='Ethers.js' />      <img src="https://jacobdmn.me/icons/web3js.svg" width='61' title='Web3.js' />      <img src="https://jacobdmn.me/icons/hardhat.svg" width='61' title='Hardhat' />      <img src="https://jacobdmn.me/icons/moralis.svg" width='61' title='Moralis' />      <img src="https://jacobdmn.me/_next/image?url=%2Ficons%2Fthirdweb.png&w=64&q=90" width='61' title='Thirdweb' />      
 
---------
-### Web Development MERN (MongoDB, Express, React, Node):
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'   />      <img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width='60'  title='TypeScript'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width='60'  title='React.JS'   />      <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" width='60' title='Next.JS'   />      <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" width='60'  title='Redux'  />      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width='70'  title='Node.js'  />      <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width='70'  title='Python'  />      <img src="https://uploads.getpop.org/wp-content/uploads/2019/07/graphql.png" width='60' title='GraphQL'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" width='60' title='MongoDB'   />      <img src="https://img.icons8.com/color/512/tailwindcss.png" width='60'  title='Tailwind Css'  />      <img src="https://img.icons8.com/color/50/000000/material-ui.png" width='60'  title='Material UI'  />   
+
+### - Frontend Development
+<img src="https://jacobdmn.me/icons/html.svg" width='60' title='HTML' />      <img src="https://jacobdmn.me/icons/css.svg" width='60' title='CSS' />      <img src="https://jacobdmn.me/icons/javascript.svg" height='60' width='60' title='Javascript' />      <img src="https://jacobdmn.me/icons/typescript.svg" width='60' title='Typescript' />      <img src="https://jacobdmn.me/icons/reactjs.svg" width='60' title='React.js' />      <img src="https://jacobdmn.me/icons/nextjs.svg" width='60' title='Next.js' />      <img src="https://jacobdmn.me/icons/redux.svg" width='60' title='Redux' />      <img src="https://jacobdmn.me/icons/tailwindcss.svg" width='60' title='TailwindCSS' />      <img src="https://jacobdmn.me/icons/bootstrap.svg" width='60' title='Bootstrap' />      <img src="https://jacobdmn.me/icons/mui.svg" width='60' title='Material UI' />      
+
+
+### - Web2 Backend
+<img src="https://jacobdmn.me/icons/firebase.svg" width='60' title='Firebase' />      <img src="https://jacobdmn.me/icons/graphql.svg" width='60' title='GraphQL' />      <img src="https://jacobdmn.me/icons/nodejs.svg" width='60' title='Node.Js' />      <img src="https://jacobdmn.me/icons/mongodb.svg" width='60' title='MongoDB' />      <img src="https://jacobdmn.me/icons/git.svg" width='60' title='Git' />      <img src="https://jacobdmn.me/icons/mysql.svg" width='60' title='Mysql' />      <img src="https://jacobdmn.me/icons/php.svg" width='60' title='PHP' />      <img src="https://jacobdmn.me/icons/graphcms.svg" width='60' title='Graph CMS' />
+
+### - Other languages
+<img src="https://jacobdmn.me/icons/assembly.png" width='60' title='Assembly' />      <img src="https://jacobdmn.me/icons/c.svg" width='60' title='C' />      <img src="https://jacobdmn.me/icons/cpp.svg" width='60' title='C++' />      <img src="https://jacobdmn.me/icons/java.svg" width='60' title='Java' />      <img src="https://jacobdmn.me/icons/python.svg" width='60' title='Python' />      <img src="https://jacobdmn.me/icons/linux.svg" width='60' title='Linux' />
+
+### - Web Design
+<img src="https://jacobdmn.me/icons/figma.svg" width='60' title='Figma' />      <img src="https://jacobdmn.me/icons/adobe_xd.svg" width='60' title='Adobe XD' />      <img src="https://jacobdmn.me/icons/adobe_photoshop.svg" width='60' title='Adobe Photoshop' />
 
 -------------------------------
 
