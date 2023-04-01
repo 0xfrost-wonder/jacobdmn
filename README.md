@@ -6,7 +6,7 @@ I specialize in building decentralized applications (dApps) using cutting-edge t
 
 -------------------------------
 ### - Web3 Development
-<img src="https://jacobdmn.me/icons/solidity.svg" width='61' title='Solidity' />      <img src="https://jacobdmn.me/icons/ethers.svg" width='61' title='Ethers.js' />      <img src="https://jacobdmn.me/icons/web3js.svg" width='61' title='Web3.js' />      <img src="https://jacobdmn.me/icons/hardhat.svg" width='61' title='Hardhat' />      <img src="https://jacobdmn.me/icons/moralis.svg" width='61' title='Moralis' />      <img src="https://jacobdmn.me/_next/image?url=%2Ficons%2Fthirdweb.png&w=64&q=90" width='61' title='Thirdweb' />      
+<img src="https://jacobdmn.me/icons/solidity.svg" height='50' width='61' title='Solidity' />      <img src="https://jacobdmn.me/icons/ethers.svg" width='61' title='Ethers.js' />      <img src="https://jacobdmn.me/icons/web3js.svg" width='61' title='Web3.js' />      <img src="https://jacobdmn.me/icons/hardhat.svg" width='61' title='Hardhat' />      <img src="https://jacobdmn.me/icons/moralis.svg" width='61' title='Moralis' />      <img src="https://jacobdmn.me/_next/image?url=%2Ficons%2Fthirdweb.png&w=64&q=90" width='61' title='Thirdweb' />      
 
 
 ### - Frontend Development
