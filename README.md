@@ -12,7 +12,8 @@ I specialize in building decentralized applications (dApps) using cutting-edge t
 
 
 ### - Frontend Development
-<img src="https://jacobdmn.me/icons/html.svg" width='60' title='HTML' />      <img src="https://jacobdmn.me/icons/css.svg" width='60' title='CSS' />      <img src="https://jacobdmn.me/icons/javascript.svg" height='60' width='60' title='Javascript' />      <img src="https://jacobdmn.me/icons/typescript.svg" width='60' title='Typescript' />      <img src="https://jacobdmn.me/icons/reactjs.svg" width='60' title='React.js' />      <img src="https://jacobdmn.me/icons/nextjs.svg" width='60' title='Next.js' />      <img src="https://jacobdmn.me/icons/redux.svg" width='60' title='Redux' />      <img src="https://jacobdmn.me/icons/tailwindcss.svg" width='60' title='TailwindCSS' />      <img src="https://jacobdmn.me/icons/bootstrap.svg" width='60' title='Bootstrap' />      <img src="https://jacobdmn.me/icons/mui.svg" width='60' title='Material UI' />      
+<img src="https://jacobdmn.me/icons/html.svg" width='60' title='HTML' />      <img src="https://jacobdmn.me/icons/css.svg" width='60' title='CSS' />      <img src="https://jacobdmn.me/icons/javascript.svg" height='60' width='60' title='Javascript' />      <img src="https://jacobdmn.me/icons/typescript.svg" width='60' title='Typescript' />      <img src="https://jacobdmn.me/icons/reactjs.svg" width='60' title='React.js' />      <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-512.png" width='60' title='Next.js' />      <img src="https://jacobdmn.me/icons/redux.svg" width='60' title='Redux' />      <img src="https://jacobdmn.me/icons/tailwindcss.svg" width='60' title='TailwindCSS' />      <img src="https://jacobdmn.me/icons/bootstrap.svg" width='60' title='Bootstrap' />      <img src="https://jacobdmn.me/icons/mui.svg" width='60' title='Material UI' />      
+
 
 
 ### - Web2 Backend
