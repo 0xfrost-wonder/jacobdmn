@@ -1,4 +1,4 @@
-# > 😄 Hi, I’m [Jacob](http://JacobDmn.me), Co-Founder, CEO @Web3 Pros [@Web3 Pros](http://web3pros.dev) 🦊
+# > Hi, I’m [Jacob](http://JacobDmn.me), Co-Founder, CEO @Web3 Pros [@Web3 Pros](http://web3pros.dev) 🦊
 
 [ specialize in building decentralized applications (dApps) using cutting-edge technologies such as Ethereum, Solidity, and IPFS. With over 4 years of experience in the web development industry, and +1 year in Blockchain, I am passionate about creating decentralized solutions that empower users and foster innovation.
 
