@@ -1,8 +1,8 @@
-# > 😄 Hi, I’m [Jacob](http://JacobDmn.me), a Blockchain Developer [@Web3 Pros](http://web3pros.dev) 🦊
+# > 😄 Hi, I’m [Jacob](http://JacobDmn.me), Co-Founder, CEO @Web3 Pros [@Web3 Pros](http://web3pros.dev) 🦊
 
-I specialize in building decentralized applications (dApps) using cutting-edge technologies such as Ethereum, Solidity, and IPFS. With over 4 years of experience in the web development industry, and +1 year in Blockchain, I am passionate about creating decentralized solutions that empower users and foster innovation.
+[ specialize in building decentralized applications (dApps) using cutting-edge technologies such as Ethereum, Solidity, and IPFS. With over 4 years of experience in the web development industry, and +1 year in Blockchain, I am passionate about creating decentralized solutions that empower users and foster innovation.
 
-### ✅ [Website](https://JacobDmn.me) || ✅ [Resume](https://JacobDmn.me/resume)
+### [My website](https://JacobDmn.me) || [Web3 Pros](https://JacobDmn.me/resume)
 
 -------------------------------
 # Skills
